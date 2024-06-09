@@ -3,7 +3,7 @@ title: INTRO
 type: docs
 ---
 
-# 中文索引页
+# 中文索引
 
 {{< columns >}}
 ## Astris ipse furtiva
